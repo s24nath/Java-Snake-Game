@@ -3,7 +3,6 @@ import java.awt.*;
 public class Snake {
 
     Game game;
-    Food food;
     int snakeBody;
     private int count = 4624;
     private int x[] = new int[count];
