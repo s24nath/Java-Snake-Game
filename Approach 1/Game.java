@@ -107,8 +107,8 @@ public class Game implements Runnable {
                     System.out.println("Game Over");
                     break;
                 }
-                render();
                 tick();
+                render();           
                 delta--;
             }
         }
