@@ -64,10 +64,10 @@ public class Snake {
         if(x[0] > 680) {
             Game.gameOver = true;
         }
-        if(y[0] < 1) {
+        if(y[0] < 10) {
             Game.gameOver = true;
         }
-        if(x[0] < 1) {
+        if(x[0] < 10) {
             Game.gameOver = true;
         }
 
