@@ -1,1 +1,1 @@
-
+In this approach, I used the Java Timer Class for animation transition of the objects, and used the JPanel Class.
